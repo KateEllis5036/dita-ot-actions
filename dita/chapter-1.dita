@@ -2,7 +2,21 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_ehy_3sd_ddc">
     <title>Chapter 1</title>
+    <shortdesc>Cinderella losses her loving mother and gains a step-mother, who brings two of her
+        own cruel daughters.</shortdesc>
     <body>
-        <p>Once upon a time...</p>
+        <section id="section_jcd_tds_ddc">
+            <title>A Tragic Beginning</title>
+            <p/>
+        </section>
+        <section id="section_btc_12s_ddc">
+            <title>Cruel New Family</title>
+            <p/>
+        </section>
+        <section id="section_rcc_22s_ddc">
+            <title>Life With The Step-Sisters</title>
+            <p/>
+        </section>
+        <p/>
     </body>
 </topic>
